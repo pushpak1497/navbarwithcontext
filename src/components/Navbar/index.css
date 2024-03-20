@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.header-container {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  border: 1px solid #333333;
+}
+.dark {
+  color: #fff;
+}
+.bg-dark {
+  background-color: #333333;
+}
+.bg-light {
+  background-color: #fff;
+}
+.button {
+  border: 0px;
+  background: transparent;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+}
+.list-container {
+  display: flex;
+  list-style-type: none;
+}
+.light {
+  color: #000;
+}
+.link-item {
+  text-decoration: none;
+  cursor: pointer;
+}
+.list-item {
+  margin-left: 20px;
+}
